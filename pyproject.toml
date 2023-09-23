@@ -1,0 +1,8 @@
+[tool.black]
+line-length = 120
+
+[tool.ruff]
+select = ["ALL"]
+ignore = ["D","T201"]
+fixable = ["ALL"]
+line-length = 120
